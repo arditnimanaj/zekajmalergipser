@@ -50,11 +50,15 @@ function Header() {
           </Link>
         </div>
         <div className="absolute bottom-20 right-[35%]">
-          <img src={logo} alt="" className="w-30 h-10 block md:hidden "></img>
+          <img
+            src={logo}
+            alt="logo"
+            className="w-30 h-10 block md:hidden "
+          ></img>
         </div>
       </div>
       <Link to={"/"}>
-        <img src={logo} alt="" className="w-30 h-10 md:w-50 md:h-14"></img>
+        <img src={logo} alt="logo" className="w-30 h-10 md:w-50 md:h-14"></img>
       </Link>
       <ul className="text-gray-900  gap-8 items-center justify-between md:flex font-kanit uppercase">
         <Link to={"/"} className="hover:cursor-pointer hidden md:flex">

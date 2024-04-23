@@ -68,7 +68,11 @@ function UberUns() {
             {services.map((service) => {
               return (
                 <div className="flex gap-4 mx-auto border-4 p-4 max-w-xl items-center">
-                  <img src={service.imageSource} className="w-20 h-20" />
+                  <img
+                    src={service.imageSource}
+                    alt={service.name}
+                    className="w-20 h-20"
+                  />
                   <div>
                     <span className="font-bold text-rose-400 font-raleway">
                       {service.name}{" "}

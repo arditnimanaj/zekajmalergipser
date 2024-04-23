@@ -5,7 +5,6 @@ import Bodenverlegung from "../images/services/Bodenverlegung.jpg";
 import Fassadenarbeiten from "../images/services/Fassadenarbeiten.jpg";
 import Trockenbau from "../images/services/Trockenbau.jpg";
 import Gipserarbeiten from "../images/services/Gipserarbeiten.jpg";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
 function Services() {
   const services = [

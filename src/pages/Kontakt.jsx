@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "../images/logo.png";
 
 function Kontakt() {
   return (
@@ -69,6 +68,7 @@ function Kontakt() {
           </h1>
           <div style={{ width: "100%" }}>
             <iframe
+              title="maps"
               width="100%"
               height="600"
               frameborder="0"

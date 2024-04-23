@@ -8,6 +8,7 @@ function Hero() {
     <div className="text-center relative">
       <img
         src={hero}
+        alt={"hero"}
         className="w-full max-h-[110vh] object-fit opacity-100 md:opacity-90"
       ></img>
       <div className="flex flex-col md:absolute md:top-1/2 md:left-1/2 md:transform md:-translate-x-1/2 md:-translate-y-1/2 border rounded-2xl opacity-100 md:opacity-90  md:w-fit md:mx-auto mx-6 my-6 px-[5%] py-[3%] bg-gray-200 ">

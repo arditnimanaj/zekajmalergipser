@@ -34,7 +34,7 @@ function Footer() {
             <a href="https://wa.me/491624319768">
               <i class="fa-brands fa-whatsapp fa-2xl"></i>
             </a>
-            <a href="https://www.facebook.com/profile.php?id=61558758450224">
+            <a href="https://www.facebook.com/profile.php?id=61558969792060">
               <i class="fa-brands fa-facebook fa-2xl"></i>
             </a>
 

@@ -48,7 +48,7 @@ function Kontakt() {
 
               <a
                 className="border w-fit p-3 bg-blue-700 text-white"
-                href="https://www.facebook.com/profile.php?id=61558758450224"
+                href="https://www.facebook.com/profile.php?id=61558969792060"
               >
                 <i class="fa-brands fa-facebook fa-2xl"></i> Facebook
               </a>
